@@ -1,0 +1,26 @@
+PS C:\Users\aparo\AppData\Local\Programs\Microsoft VS Code> & C:\Users\aparo\AppData\Local\Programs\Python\Python314\python.exe c:/Users/aparo/Day8
+
+==================================================
+     PASSWORD STRENGTH ANALYZER
+==================================================
+
+[Attempt 1] Enter password: dfgyhul
+
+  Password : dfgyhul
+  Strength : 2/7 (Weak)
+  Missing  : too short (need 8+ characters), uppercase letter, digit, special character (!@#$%^&*)
+
+  Too weak. Need score ≥ 5. Try again...
+
+
+[Attempt 2] Enter password: Acd123@#@
+
+  Password : Acd123@#@
+  Strength : 6/7 (Strong)
+  Missing  : None — excellent password!
+
+  Password accepted after 2 attempt(s)!
+
+--------------------------------------------------
+
+Would you like to generate a secure password? (yes/no): 
