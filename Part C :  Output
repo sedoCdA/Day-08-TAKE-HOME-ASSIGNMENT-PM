@@ -1,0 +1,16 @@
+PS C:\Users\aparo\AppData\Local\Programs\Microsoft VS Code> & C:\Users\aparo\AppData\Local\Programs\Python\Python314\python.exe c:/Users/aparo/Day8
+
+=== Diamond Pattern Generator ===
+
+Enter number of rows for upper half: 5
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+PS C:\Users\aparo\AppData\Local\Programs\Microsoft VS Code> 
