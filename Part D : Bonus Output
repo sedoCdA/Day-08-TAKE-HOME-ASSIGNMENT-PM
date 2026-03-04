@@ -1,0 +1,15 @@
+PS C:\Users\aparo\AppData\Local\Programs\Microsoft VS Code> & C:\Users\aparo\AppData\Local\Programs\Python\Python314\python.exe c:/Users/aparo/Day8
+
+=======================================================
+     PAYTM TRANSACTION ANALYZER
+=======================================================
+  Enter transactions one by one. Type 'done' to finish.
+
+
+Amount (or 'done' to finish): 500000
+Type (credit/debit)          : credit
+Category (food/travel/bills/other): food
+ HIGH VALUE transaction flagged: ₹500,000.00
+  Recorded: CREDIT ₹500,000.00 [food]
+
+Amount (or 'done' to finish): 
